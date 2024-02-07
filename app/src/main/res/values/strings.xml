@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="sprite_options">
+        <item>Viking</item>
+        <item>Human</item>
+        <item>Ogre</item>
+    </string-array>
+</resources>
